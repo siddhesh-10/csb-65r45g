@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://siddhesh-10.github.io/csb-65r45g/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://siddhesh-10.github.io/csb-65r45g/static/js/main.3d512a18.chunk.js",
+    "main.js.map": "https://siddhesh-10.github.io/csb-65r45g/static/js/main.3d512a18.chunk.js.map",
+    "runtime-main.js": "https://siddhesh-10.github.io/csb-65r45g/static/js/runtime-main.e2de499a.js",
+    "runtime-main.js.map": "https://siddhesh-10.github.io/csb-65r45g/static/js/runtime-main.e2de499a.js.map",
+    "static/css/2.b8e408b6.chunk.css": "https://siddhesh-10.github.io/csb-65r45g/static/css/2.b8e408b6.chunk.css",
+    "static/js/2.de480dd0.chunk.js": "https://siddhesh-10.github.io/csb-65r45g/static/js/2.de480dd0.chunk.js",
+    "static/js/2.de480dd0.chunk.js.map": "https://siddhesh-10.github.io/csb-65r45g/static/js/2.de480dd0.chunk.js.map",
+    "index.html": "https://siddhesh-10.github.io/csb-65r45g/index.html",
+    "static/css/2.b8e408b6.chunk.css.map": "https://siddhesh-10.github.io/csb-65r45g/static/css/2.b8e408b6.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://siddhesh-10.github.io/csb-65r45g/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.de480dd0.chunk.js.LICENSE.txt": "https://siddhesh-10.github.io/csb-65r45g/static/js/2.de480dd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2de499a.js",
+    "static/css/2.b8e408b6.chunk.css",
+    "static/js/2.de480dd0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3d512a18.chunk.js"
+  ]
+}
